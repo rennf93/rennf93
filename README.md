@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
