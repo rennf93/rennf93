@@ -1,5 +1,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![Matrix SVG](https://github.com/rennf93/rennf93/master/assets/matrix.svg)](https://github.com/rennf93/rennf93/master/assets/matrix.svg)
+
+
 ### About Me:
 I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working on various GitHub Actions and automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
 
@@ -49,6 +53,18 @@ Here are some of my notable projects:
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=rennf93&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/rennf93/rennf93">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rennf93&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rennf93&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rennf93&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rennf93&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rennf93&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rennf93&show_icons=true&theme=vision-friendly-dark">
