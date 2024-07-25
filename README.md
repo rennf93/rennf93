@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Matrix SVG](https://github.com/rennf93/rennf93/master/assets/matrix.svg)](https://github.com/rennf93/rennf93/master/assets/matrix.svg)
+[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
 
 
 ### About Me:
@@ -20,7 +20,7 @@ Here are some of my notable projects:
 - [GitHub Actions Secrets Management](https://github.com/rennf93/github-actions-secrets-mgmt): Tool to manage and automate GitHub Actions Secrets modifications.
 - [Generate API Key](https://github.com/rennf93/generate-api-key): Generates a secure API key.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages:
 | Python | Swift | JavaScript |
@@ -48,13 +48,14 @@ Here are some of my notable projects:
 |-------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=rennf93&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/rennf93/rennf93">
@@ -64,12 +65,15 @@ Here are some of my notable projects:
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rennf93&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rennf93&theme=2077" height="180em" />
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rennf93&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennf93&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
  <img width="1000" src="assets/snake.svg" alt="snake"/>
