@@ -33,21 +33,24 @@ Here are some of my notable projects:
 |----------------|--------|---------|---------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/> |
 
-### DB & ORM: 📦
+
 ### DB & ORM: 📦
 | SQLAlchemy | PostgreSQL | MySQL | MongoDB | Redshift | SQLServer | Databricks | Django ORM |
 |------------|----------|---------|---------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/aws-samples/aws-icons-for-plantuml/main/dist/AWS-Redshift.png" title="Redshift" alt="Redshift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/> | <img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" title="Databricks" alt="Databricks" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django ORM" alt="Django ORM" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="" title="Redshift" alt="Redshift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/> | <img src="https://asset.brandfetch.io/idSUrLOWbH/idUT__oJw_.png" title="Databricks" alt="Databricks" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django ORM" alt="Django ORM" width="55" height="55"/> |
+
 
 ### Environments, Testing, Other: 🧪
 | Git | Pytest | Swagger |
 |-----|--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> |
 
+
 ### OS: 🖥️
 | Mac | Linux | Ubuntu | Windows |
 |-------|--------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+
 
 ### Cloud: 🌩️
 | AWS | Azure | Google Cloud |
