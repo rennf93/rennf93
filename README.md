@@ -4,7 +4,7 @@
 [![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
 
 
-### About Me:
+### About Me: 👨🏻‍🚀
 I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working on various GitHub Actions and automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
 
 ### Social media: 📡
@@ -22,28 +22,28 @@ Here are some of my notable projects:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Languages:
+## Languages: 💻
 | Python | Swift | JavaScript |
 |--------|-------|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 
-### Tools & Frameworks:
+### Tools & Frameworks: 🧰
 | GitHub Actions | Docker | Postman | FastAPI | Django |
 |----------------|--------|---------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/> |
 
-### Environments, Testing, Other:
+### Environments, Testing, Other: 🧪
 | Git | Pytest | Swagger |
 |-----|--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> |
 
-### OS:
+### OS: 🖥️
 | Mac | Linux | Ubuntu | Windows |
 |-------|--------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
-### Cloud:
+### Cloud: 🌩️
 | AWS | Azure | Google Cloud |
 |-------|---------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> |
