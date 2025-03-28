@@ -1,18 +1,14 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 👨🏻‍🚀 - About Me
+I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working mainly on FastAPI Guard, various GitHub Actions and other automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
 
+### 📡 - Social media
+Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-f/)
 
-[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 
-
-### About Me: 👨🏻‍🚀
-I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working on various GitHub Actions and automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
-
-### Social media: 📡
-Connect with me on LinkedIn.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzo-f/)
-
-## Projects: 🚀
+## 🚀 - Projects
 Here are some of my notable projects:
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard): Security Middleware that fully protects a FastAPI app.
 - [2FastAuth](https://github.com/rennf93/two-fast-auth): 2FA Middleware to handle two factor authentication for FastAPI apps.
@@ -24,40 +20,38 @@ Here are some of my notable projects:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Languages: 💻
-| Python | Swift | JavaScript |
-|--------|-------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+## 💻 - Languages
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=swift" title="Swift" alt="Swift" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="55" height="55"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🧰 - Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="55" height="55"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📦 - DB & ORM
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="55" height="55"/>  <img src="" title="Redshift" alt="Redshift" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/>  <img src="https://asset.brandfetch.io/idSUrLOWbH/idUT__oJw_.png" title="Databricks" alt="Databricks" width="55" height="55"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🧪 - Environments, Testing, Other
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🖥️ - OS
+<img src="https://skillicons.dev/icons?i=apple" title="Mac" alt="Mac" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="55" height="55"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌩️ - Cloud
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="Google Cloud" width="55" height="55"/>
 
 
-### Tools & Frameworks: 🧰
-| GitHub Actions | Docker | Postman | FastAPI | Django | Redis |
-|----------------|--------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/> |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### DB & ORM: 📦
-| SQLAlchemy | PostgreSQL | MySQL | MongoDB | Redshift | SQLServer | Databricks | Django ORM |
-|------------|----------|---------|---------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="" title="Redshift" alt="Redshift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/> | <img src="https://asset.brandfetch.io/idSUrLOWbH/idUT__oJw_.png" title="Databricks" alt="Databricks" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django ORM" alt="Django ORM" width="55" height="55"/> |
-
-
-### Environments, Testing, Other: 🧪
-| Git | Pytest | Swagger |
-|-----|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> |
-
-
-### OS: 🖥️
-| Mac | Linux | Ubuntu | Windows |
-|-------|--------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-
-
-### Cloud: 🌩️
-| AWS | Azure | Google Cloud |
-|-------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> |
+[![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -86,6 +80,4 @@ Here are some of my notable projects:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
-</p>
+[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
