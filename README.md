@@ -11,6 +11,7 @@ Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue
 ## 🚀 - Projects
 Here are some of my notable projects:
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard): Security Middleware that fully protects a FastAPI app.
+- [FastAPI-Guard-Agent](https://github.com/rennf93/fastapi-guard-agent): Telemetry & Monitoring Agent for FastAPI Guard.
 - [2FastAuth](https://github.com/rennf93/two-fast-auth): 2FA Middleware to handle two factor authentication for FastAPI apps.
 - [Fast-Man](https://github.com/rennf93/fast-man): Automates the creation of `postman_collection.json` for a FastAPI app.
 - [Good Comms](https://github.com/rennf93/good-comms): Sends notifications to a Slack channel.
