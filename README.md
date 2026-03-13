@@ -27,7 +27,7 @@ Here are some of my notable projects:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Tools & Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="55" height="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="55" height="55"/>  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="55" height="55"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
