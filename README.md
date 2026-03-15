@@ -13,6 +13,7 @@ Here are some of my notable projects:
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard): Security Middleware that fully protects a FastAPI app.
 - [FastAPI-Guard-Agent](https://github.com/rennf93/fastapi-guard-agent): Telemetry & Monitoring Agent for FastAPI Guard.
 - [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard): Security Middleware that fully protects a Flask API app.
+- [Django-API-Guard](https://github.com/rennf93/djapi-guard): Security Middleware that fully protects a Django app.
 - [Cutie-Pi](https://github.com/rennf93/cutie-pi): Pixel-art dashboard for Pi-hole on small LCD screens.
 - [2FastAuth](https://github.com/rennf93/two-fast-auth): 2FA Middleware to handle two factor authentication for FastAPI apps.
 - [Good Comms](https://github.com/rennf93/good-comms): Sends notifications to a Slack channel.
