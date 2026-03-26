@@ -10,7 +10,7 @@ I'm a passionate developer with expertise in Python, Swift, and JavaScript. I lo
 
 ## Projects
 Here are some of my notable projects:
-- [Core-Guard](https://github.com/rennf93/core-guard): API Security Core Engine for FastAPI, Flask and Django adapters/guards.
+- [Guard-Core](https://github.com/rennf93/guard-core): API Security Core Engine for FastAPI, Flask and Django adapters/guards.
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard): (Adapter) Security Middleware that fully protects a FastAPI app.
 - [FastAPI-Guard-Agent](https://github.com/rennf93/fastapi-guard-agent): (Agent) Telemetry & Monitoring Agent for FastAPI Guard.
 - [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard): (Adapter) Security Middleware that fully protects a Flask API app.
