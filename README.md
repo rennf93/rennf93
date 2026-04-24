@@ -21,13 +21,30 @@ I'm a passionate developer with expertise in Python, Swift, and JavaScript. I lo
 ## Projects
 
 **Guard Ecosystem — API Security**
-- [Guard-Core](https://github.com/rennf93/guard-core) — API Security Core Engine for FastAPI, Flask and Django adapters/guards.
-- [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) — TypeScript equivalent of Guard Core and its thin adapters (specific to TypeScript/Node).
+
+### Python
+- [Guard-Core](https://github.com/rennf93/guard-core) — API Security Core Engine for Python frameworks.
 - [Guard-Agent](https://github.com/rennf93/guard-agent) — Telemetry & Monitoring Agent for FastAPI Guard.
-- [FastAPI-Guard](https://github.com/rennf93/fastapi-guard) — Security Middleware that fully protects a FastAPI app.
-- [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard) — Security Middleware that fully protects a Flask API app.
-- [Django-API-Guard](https://github.com/rennf93/djapi-guard) — Security Middleware that fully protects a Django app.
-- [Tornado-API-Guard](https://github.com/rennf93/tornadoapi-guard) — Security library that fully protects a Tornado app.
+- [FastAPI-Guard](https://github.com/rennf93/fastapi-guard) — Adapter to Guard Core that fully protects a FastAPI app.
+- [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard) — Adapter to Guard Core that fully protects a Flask API app.
+- [Django-API-Guard](https://github.com/rennf93/djapi-guard) — Adapter to Guard Core that fully protects a Django app.
+- [Tornado-API-Guard](https://github.com/rennf93/tornadoapi-guard) — Adapter to Guard Core that fully protects a Tornado app.
+
+### TypeScript
+- [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) — TypeScript equivalent of Guard Core and its thin adapters.
+- Guard-Agent-TS - Coming soon...
+- [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/packages/express) — Adapter to Guard Core Ts that fully protects a Express app.
+- [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/packages/fastify) — Adapter to Guard Core Ts that fully protects a Fastify app.
+- [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/packages/hono) — Adapter to Guard Core Ts that fully protects a Hono app.
+- [Guard-Core-NestJS](https://github.com/rennf93/guard-core-ts/packages/nestjs) — Adapter to Guard Core Ts that fully protects a NestJS app.
+
+### Rust
+- [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) — Rust equivalent of Guard Core and its thin adapters.
+- Guard-Agent-RS - Coming soon...
+- [Actix-Guard-RS](https://github.com/rennf93/actix-guard-rs) — Coming soon...
+- [Axum-Guard-RS](https://github.com/rennf93/axum-guard-rs) — Coming soon...
+- [Rocket-Guard-RS](https://github.com/rennf93/rocket-guard-rs) — Coming soon...
+- [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) — Coming soon...
 
 **Developer Tools & Plugins**
 - [Agent-Runway](https://github.com/rennf93/agent-runway) — A plugin for Claude Code's subagents that makes them respect your rules.
