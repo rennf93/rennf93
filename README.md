@@ -20,7 +20,7 @@ I'm a passionate developer with expertise in Python, Swift, and JavaScript. I lo
 
 ## Projects
 
-**Guard Ecosystem — API Security**
+### Guard Ecosystem — API Security
 
 ### Python
 - [Guard-Core](https://github.com/rennf93/guard-core) — API Security Core Engine for Python frameworks.
