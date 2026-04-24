@@ -52,10 +52,10 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 ### TypeScript
 - [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) — TypeScript equivalent of Guard Core and its thin adapters.
 - [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) — Telemetry & Monitoring Agent for Guard Core TS. **(WIP)**
-- [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/packages/express) — Adapter to Guard Core Ts that fully protects a Express app.
-- [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/packages/fastify) — Adapter to Guard Core Ts that fully protects a Fastify app.
-- [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/packages/hono) — Adapter to Guard Core Ts that fully protects a Hono app.
-- [Guard-Core-NestJS](https://github.com/rennf93/guard-core-ts/packages/nestjs) — Adapter to Guard Core Ts that fully protects a NestJS app.
+- [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/tree/master/packages/express) — Adapter to Guard Core Ts that fully protects a Express app.
+- [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/tree/master/packages/fastify) — Adapter to Guard Core Ts that fully protects a Fastify app.
+- [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/tree/master/packages/hono) — Adapter to Guard Core Ts that fully protects a Hono app.
+- [Guard-Core-NestJS](https://github.com/rennf93/guard-core-ts/tree/master/packages/nestjs) — Adapter to Guard Core Ts that fully protects a NestJS app.
 
 ### Rust
 - [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) — Rust equivalent of Guard Core and its thin adapters.
