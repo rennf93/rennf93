@@ -51,7 +51,7 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 
 ### TypeScript
 - [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) — TypeScript equivalent of Guard Core and its thin adapters.
-- [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) - Coming soon...
+- [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) — Telemetry & Monitoring Agent for Guard Core TS. **(WIP)**
 - [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/packages/express) — Adapter to Guard Core Ts that fully protects a Express app.
 - [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/packages/fastify) — Adapter to Guard Core Ts that fully protects a Fastify app.
 - [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/packages/hono) — Adapter to Guard Core Ts that fully protects a Hono app.
@@ -59,11 +59,11 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 
 ### Rust
 - [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) — Rust equivalent of Guard Core and its thin adapters.
-- [Guard-Agent-RS](https://github.com/rennf93/guard-agent-rs) - Coming soon...
-- [Actix-Guard-RS](https://github.com/rennf93/actix-guard-rs) — Coming soon...
-- [Axum-Guard-RS](https://github.com/rennf93/axum-guard-rs) — Coming soon...
-- [Rocket-Guard-RS](https://github.com/rennf93/rocket-guard-rs) — Coming soon...
-- [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) — Coming soon...
+- [Guard-Agent-RS](https://github.com/rennf93/guard-agent-rs) — Telemetry & Monitoring Agent for Guard Core RS. **(WIP)**
+- [Actix-Guard-RS](https://github.com/rennf93/actix-guard-rs) — Adapter to Guard Core RS that fully protects a Actix app. **(WIP)**
+- [Axum-Guard-RS](https://github.com/rennf93/axum-guard-rs) — Adapter to Guard Core RS that fully protects a Axum app. **(WIP)**
+- [Rocket-Guard-RS](https://github.com/rennf93/rocket-guard-rs) — Adapter to Guard Core RS that fully protects a Rocket app. **(WIP)**
+- [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) — Adapter to Guard Core RS that fully protects a Tower app. **(WIP)**
 
 **Developer Tools & Plugins**
 - [Agent-Runway](https://github.com/rennf93/agent-runway) — A plugin for Claude Code's subagents that makes them respect your rules.
