@@ -10,10 +10,29 @@
 
 ### About Me
 
-I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working mainly on FastAPI Guard, various GitHub Actions and other automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
+I'm **Renzo Franceschini** — a senior software engineer based in **Spoleto, Italy**, with nearly a decade of professional experience across **Python**, **TypeScript**, **Swift**, and **Java**. I've led backend teams and projects at **EssilorLuxottica**, **PwC**, **Forian / Helix Technologies**, and others, usually as Tech Lead or Main Backend Engineer — setting standards, reviewing PRs, planning roadmaps, and shipping maintainable systems.
+
+Currently I'm a **Senior Software Engineer — AI Evaluation** at **BespokeLabs**, engineering AI agent evaluation benchmarks and designing multi-layered debugging scenarios that test whether LLM agents can reason through real-world software architecture.
+
+My signature open-source work is the **Guard-Core** ecosystem — a framework-agnostic API security platform with thin adapters for FastAPI, Flask, Django and Tornado, a TypeScript port with adapters for Express/Fastify/Hono/NestJS, a Rust port on the way, a companion telemetry agent, and a hosted SaaS (marketing site, dashboard, interactive playground, and public API). Sole maintainer across the stack, with 100% test coverage as a floor — not a stretch goal.
+
+Alongside the Guard work I ship tooling for **Claude Code** — most notably [Agent-Runway](https://github.com/rennf93/agent-runway), a plugin that intercepts subagent spawns and injects architectural context and project rules so they actually respect your conventions.
+
+When I'm not on either of those, you'll catch me writing GitHub Actions, tinkering with AI agent infrastructure, and contributing to whatever open source I happen to be using at the time.
 
 <p align="center">
   <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
+
+---
+
+## The Guard-Core Platform
+
+<p align="center">
+  <a href="https://guard-core.com"><img src="https://img.shields.io/badge/guard--core.com-Marketing-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="guard-core.com"/></a>
+  <a href="https://app.guard-core.com"><img src="https://img.shields.io/badge/app.guard--core.com-Dashboard-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="app.guard-core.com"/></a>
+  <a href="https://playground.guard-core.com"><img src="https://img.shields.io/badge/playground.guard--core.com-Playground-14B8A6?style=for-the-badge&logo=react&logoColor=white" alt="playground.guard-core.com"/></a>
+  <a href="https://api.guard-core.com"><img src="https://img.shields.io/badge/api.guard--core.com-API-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=white" alt="api.guard-core.com"/></a>
 </p>
 
 ---
@@ -63,11 +82,11 @@ I'm a passionate developer with expertise in Python, Swift, and JavaScript. I lo
 <table align="center">
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,ts,swift,js" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,swift,java,rust,js" alt="Languages"/></td>
   </tr>
   <tr>
     <td align="right"><b>Frameworks&nbsp;&amp;&nbsp;Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,redis,githubactions,docker,postman" alt="Frameworks & Tools"/></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,express,nestjs,redis,githubactions,docker,kubernetes,postman" alt="Frameworks & Tools"/></td>
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
