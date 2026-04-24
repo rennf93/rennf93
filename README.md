@@ -12,8 +12,8 @@ I'm a passionate developer with expertise in Python, Swift, and JavaScript. I lo
 Here are some of my notable projects:
 - [Agent-Runway](https://github.com/rennf93/agent-runway): A plugin for Claude Code's subagents that makes them respect your rules.
 - [Guard-Core](https://github.com/rennf93/guard-core): API Security Core Engine for FastAPI, Flask and Django adapters/guards.
+- [Guard-Agent](https://github.com/rennf93/guard-agent): (Agent) Telemetry & Monitoring Agent for FastAPI Guard.
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard): (Adapter) Security Middleware that fully protects a FastAPI app.
-- [FastAPI-Guard-Agent](https://github.com/rennf93/fastapi-guard-agent): (Agent) Telemetry & Monitoring Agent for FastAPI Guard.
 - [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard): (Adapter) Security Middleware that fully protects a Flask API app.
 - [Django-API-Guard](https://github.com/rennf93/djapi-guard): (Adapter) Security Middleware that fully protects a Django app.
 - [Tornado-API-Guard](https://github.com/rennf93/tornadoapi-guard): (Adapter) Security library that fully protects a Tornado app.
