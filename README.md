@@ -85,7 +85,7 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
     <td><img src="https://skillicons.dev/icons?i=python,ts,swift,java,rust,js" alt="Languages"/></td>
   </tr>
   <tr>
-    <td align="right"><b>Frameworks&nbsp;&amp;&nbsp;Tools</b></td>
+    <td align="right"><b>Frameworks</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,express,nestjs,redis,githubactions,docker,kubernetes,postman" alt="Frameworks & Tools"/></td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Operating&nbsp;Systems</b></td>
+    <td align="right"><b>OS</b></td>
     <td><img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows" alt="Operating Systems"/></td>
   </tr>
   <tr>
