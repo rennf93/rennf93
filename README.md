@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm **Renzo Franceschini** — a senior software engineer based in **Spoleto, Italy**, with nearly a decade of professional experience across **Python**, **TypeScript**, **Rust**, **Swift**, and **Java**. I've led backend teams and projects at **EssilorLuxottica**, **PwC**, **Forian / Helix Technologies**, and others, usually as Tech Lead or Main Backend Engineer — setting standards, reviewing PRs, planning roadmaps, and shipping maintainable systems.
+I'm **Renzo Franceschini** — a senior software engineer based in **Italy**, with nearly a decade of professional experience across **Python**, **TypeScript**, **Rust**, **Swift**, and **Java**. I've led backend teams and projects at **EssilorLuxottica**, **PwC**, **Forian / Helix Technologies**, and others, usually as Tech Lead or Main Backend Engineer — setting standards, reviewing PRs, planning roadmaps, and shipping maintainable systems.
 
 Currently I'm a **Senior Software Engineer — AI Evaluation** at **BespokeLabs**, engineering AI agent evaluation benchmarks and designing multi-layered debugging scenarios that test whether LLM agents can reason through real-world software architecture.
 
