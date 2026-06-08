@@ -16,7 +16,7 @@ Currently I'm a **Senior Software Engineer — AI Evaluation** at **BespokeLabs*
 
 My signature open-source work is the **Guard-Core** ecosystem — a framework-agnostic API security platform with thin adapters for FastAPI, Flask, Django and Tornado, a TypeScript port with adapters for Express/Fastify/Hono/NestJS, a Rust port on the way, a companion telemetry agent, and a hosted SaaS (marketing site, dashboard, interactive playground, and public API). Sole maintainer across the stack, with 100% test coverage as a floor — not a stretch goal.
 
-Alongside the Guard work I ship tooling for **Claude Code** — most notably [Agent-Runway](https://github.com/rennf93/agent-runway), a plugin that intercepts subagent spawns and injects architectural context and project rules so they actually respect your conventions.
+Right now my main focus is **[RoboCo](https://github.com/rennf93/roboco)** — an *AI Agents Company*: a virtual organization of 20 AI agents and one human CEO (me), wired to run as a complete software-development workforce. A Board, a Main PM, and Backend / Frontend / UX-UI cells push every task through a real *build → review → document → merge* pipeline — where only the human ever merges to `master`. It's built on FastAPI, Postgres, Redis and MCP, with a RAG knowledge base feeding the agents and a live control panel over the whole org.
 
 When I'm not on either of those, you'll catch me writing GitHub Actions, tinkering with AI agent infrastructure, and contributing to whatever open source I happen to be using at the time.
 
@@ -38,6 +38,9 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 ---
 
 ## Projects
+
+### RoboCo — AI Agents Company
+- [RoboCo](https://github.com/rennf93/roboco) — A virtual software company of 20 AI agents + 1 human CEO, running a full build → review → document → merge pipeline.
 
 ### Guard Ecosystem — API Security
 
@@ -66,7 +69,6 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 - [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) — Adapter to Guard Core RS that fully protects a Tower app. **(WIP)**
 
 **Developer Tools & Plugins**
-- [Agent-Runway](https://github.com/rennf93/agent-runway) — A plugin for Claude Code's subagents that makes them respect your rules.
 - [2FastAuth](https://github.com/rennf93/two-fast-auth) — 2FA Middleware to handle two factor authentication for FastAPI apps.
 - [Cutie-Pi](https://github.com/rennf93/cutie-pi) — Pixel-art dashboard for Pi-hole on small LCD screens.
 
