@@ -40,7 +40,7 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 ## Projects
 
 ### RoboCo — AI Agents Company
-- [RoboCo](https://github.com/rennf93/roboco) — An AI Agents Organization of 20 AI agents + 1 human CEO, running a full build → review → document → merge pipeline. Role-gated, open source, self hosted company that aims to help solo-founders (like me) have the team they can't yet quite afford to have. You can focus on reaching out to new customers while they keep building for you.
+- [RoboCo](https://github.com/rennf93/roboco) — An AI Agents Organization of 25 AI agents + 1 human CEO, running a full build → review → document → merge pipeline. Role-gated, open source, self hosted company that aims to help solo-founders (like me) have the team they can't yet quite afford to have. You can focus on reaching out to new customers while they keep building for you.
 
 ### Guard Ecosystem — API Security
 
