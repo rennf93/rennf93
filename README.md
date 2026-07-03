@@ -69,6 +69,8 @@ When I'm not on either of those, you'll catch me writing GitHub Actions, tinkeri
 - [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) — Adapter to Guard Core RS that fully protects a Tower app. **(WIP)**
 
 **Developer Tools & Plugins**
+- [fable-mode](https://github.com/rennf93/opus-fable-playbook) — Claude Code plugin that makes Opus 4.8 behave like Claude Fable 5: doctrine output style, drift-catching hooks, and an eval loop measured against golden Fable transcripts.
+- [Agent Runway](https://github.com/rennf93/agent-runway) — Claude Code plugin that briefs subagents on project architecture and conventions before they write code, then validates placement after.
 - [2FastAuth](https://github.com/rennf93/two-fast-auth) — 2FA Middleware to handle two factor authentication for FastAPI apps.
 - [Cutie-Pi](https://github.com/rennf93/cutie-pi) — Pixel-art dashboard for Pi-hole on small LCD screens.
 
