@@ -18,7 +18,9 @@ My signature open-source work is the **Guard-Core** ecosystem — a framework-ag
 
 Right now my main focus is **[RoboCo](https://github.com/rennf93/roboco)** — an *AI Agents Company*: a virtual organization of 25 AI agents and one human CEO (me), wired to run as a complete software-development workforce. A Board, a Main PM, and Backend / Frontend / UX-UI cells push every task through a real *build → review → document → merge* pipeline — where only the human ever merges to `master`. It's built on FastAPI, Postgres, Redis and MCP, with a RAG knowledge base feeding the agents and a live control panel over the whole org.
 
-When I'm not on either of those, you'll catch me writing GitHub Actions, tinkering with AI agent infrastructure, and contributing to whatever open source I happen to be using at the time.
+Freshest off the bench is **[fable-mode](https://github.com/rennf93/opus-fable-playbook)** — a Claude Code plugin that runs **Opus 4.8** under **Claude Fable 5**'s own behavioral doctrine, transcribed by Fable itself. Harness-level hooks catch drift as it happens (promise-endings blocked, failures reported verbatim), and a 12-probe eval loop scores it pairwise against golden Fable transcripts — currently leading or tying vanilla Opus on 6 of 8 doctrine dimensions, with the losses committed to the repo right alongside the wins.
+
+When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering with AI agent infrastructure, and contributing to whatever open source I happen to be using at the time.
 
 <p align="center">
   <img width="1000" src="assets/snake.svg" alt="snake"/>
