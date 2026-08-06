@@ -45,8 +45,8 @@ When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering 
 ### Guard Ecosystem — API Security
 
 ### Python
-- [Guard-Core-MCP](https://github.com/rennf93/guard-core-mcp) — MCP server for your LLM to work with the Guard ecosystem.
 - [Guard-Core](https://github.com/rennf93/guard-core) — API Security Core Engine for Python frameworks.
+- [Guard-Core-MCP](https://github.com/rennf93/guard-core-mcp) — MCP server for your LLM to work with the Guard ecosystem.
 - [Guard-Agent](https://github.com/rennf93/guard-agent) — Telemetry & Monitoring Agent for FastAPI Guard.
 - [FastAPI-Guard](https://github.com/rennf93/fastapi-guard) — Adapter to Guard Core that fully protects a FastAPI app.
 - [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard) — Adapter to Guard Core that fully protects a Flask API app.
