@@ -14,7 +14,7 @@ I'm **Renzo Franceschini** - a senior software engineer based in **Italy**, with
 
 Currently I'm a **Senior Software Engineer - AI Evaluation** at **BespokeLabs**, engineering AI agent evaluation benchmarks and designing multi-layered debugging scenarios that test whether LLM agents can reason through real-world software architecture.
 
-My signature open-source work is the **Guard-Core** ecosystem: a framework-agnostic API security platform with a core engine and thin framework adapters per language. Shipped today: Python (FastAPI, Flask, Django, Tornado), TypeScript (Express, Fastify, Hono, NestJS), Go (net/http) and PHP (PSR-15), with the Rust port in active development. Companion telemetry agents report from every core to one centralized SaaS (marketing site, dashboard, interactive playground, public API), and an MCP server lets your LLM work with the whole ecosystem. Sole maintainer across the stack, with 100% test coverage as a floor, not a stretch goal.
+My signature open-source work is the **Guard-Core** ecosystem: a framework-agnostic API security platform with a core engine and thin framework adapters per language. Shipped today: Python (FastAPI, Flask, Django, Tornado), TypeScript (Express, Fastify, Hono, NestJS), Go (net/http, Gin, Echo, Fiber) and PHP (PSR-15, Laravel, Symfony, Slim), with the Rust engine at full detection conformance and its framework adapters underway. Companion telemetry agents report from every core to one centralized SaaS (marketing site, dashboard, interactive playground, public API), and an MCP server lets your LLM work with the whole ecosystem. Sole maintainer across the stack, with 100% test coverage as a floor, not a stretch goal.
 
 Right now my main focus is **[RoboCo](https://github.com/rennf93/roboco)** - an *AI Agents Company*: a virtual organization of 25 AI agents and one human CEO (me), wired to run as a complete software-development workforce. A Board, a Main PM, and Backend / Frontend / UX-UI cells push every task through a real *build → review → document → merge* pipeline - where only the human ever merges to `master`. It's built on FastAPI, Postgres, Redis and MCP, with a RAG knowledge base feeding the agents and a live control panel over the whole org.
 
@@ -55,7 +55,7 @@ When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering 
 
 ### TypeScript
 - [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) - TypeScript equivalent of Guard Core and its thin adapters.
-- [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) - Telemetry & Monitoring Agent for Guard Core TS. **(WIP)**
+- [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) - Telemetry & Monitoring Agent for Guard Core TS: at-least-once delivery, 413 split-or-drop, Redis crash recovery.
 - [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/tree/master/packages/express) - Adapter to Guard Core Ts that fully protects a Express app.
 - [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/tree/master/packages/fastify) - Adapter to Guard Core Ts that fully protects a Fastify app.
 - [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/tree/master/packages/hono) - Adapter to Guard Core Ts that fully protects a Hono app.
@@ -63,15 +63,23 @@ When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering 
 
 ### Go
 - [Guard-Core-Go](https://github.com/rennf93/guard-core-go) - API Security Core Engine for Go.
+- [Guard-Agent-Go](https://github.com/rennf93/guard-agent-go) - Telemetry & Monitoring Agent for Guard Core Go.
 - [nethttp-guard](https://github.com/rennf93/nethttp-guard) - net/http middleware adapter for Guard Core Go: the universal `func(http.Handler) http.Handler` security middleware.
+- [Gin-Guard](https://github.com/rennf93/gin-guard) - Gin middleware adapter for Guard Core Go.
+- [Echo-Guard](https://github.com/rennf93/echo-guard) - Echo middleware adapter for Guard Core Go.
+- [Fiber-Guard](https://github.com/rennf93/fiber-guard) - Fiber (fasthttp) middleware adapter for Guard Core Go.
 
 ### PHP
 - [Guard-Core-PHP](https://github.com/rennf93/guard-core-php) - API Security Core Engine for PHP.
+- [Guard-Agent-PHP](https://github.com/rennf93/guard-agent-php) - Telemetry & Monitoring Agent for the Guard PHP adapters.
 - [PSR-15-Guard](https://github.com/rennf93/psr15-guard) - PSR-15 middleware adapter for Guard Core PHP: universal PSR-7/PSR-15 security middleware.
+- [Laravel-Guard](https://github.com/rennf93/laravel-guard) - Laravel middleware adapter for Guard Core PHP.
+- [Symfony-Guard](https://github.com/rennf93/symfony-guard) - Symfony kernel middleware adapter for Guard Core PHP.
+- [Slim-Guard](https://github.com/rennf93/slim-guard) - Slim 4 adapter composing PSR-15-Guard for Guard Core PHP.
 
 ### Rust
-- [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) - Rust equivalent of Guard Core and its thin adapters. **(WIP)**
-- [Guard-Agent-RS](https://github.com/rennf93/guard-agent-rs) - Telemetry & Monitoring Agent for Guard Core RS. **(WIP)**
+- [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) - Rust equivalent of Guard Core: full 4.0.2 detection conformance, pattern translation ledger, PyO3 bindings.
+- [Guard-Agent-RS](https://github.com/rennf93/guard-agent-rs) - Telemetry & Monitoring Agent for Guard Core RS: tokio async transport, circuit breaker, Redis persistence.
 - [Actix-Guard-RS](https://github.com/rennf93/actix-guard-rs) - Adapter to Guard Core RS that fully protects a Actix app. **(WIP)**
 - [Axum-Guard-RS](https://github.com/rennf93/axum-guard-rs) - Adapter to Guard Core RS that fully protects a Axum app. **(WIP)**
 - [Rocket-Guard-RS](https://github.com/rennf93/rocket-guard-rs) - Adapter to Guard Core RS that fully protects a Rocket app. **(WIP)**
