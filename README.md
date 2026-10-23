@@ -10,23 +10,17 @@
 
 ### About Me
 
-I'm **Renzo Franceschini** - a senior software engineer based in **Italy**, with nearly a decade of professional experience across **Python**, **TypeScript**, **Rust**, **Swift**, and **Java**. I've led backend teams and projects at **EssilorLuxottica**, **PwC**, **Forian / Helix Technologies**, and others, usually as Tech Lead or Main Backend Engineer - setting standards, reviewing PRs, planning roadmaps, and shipping maintainable systems.
+I'm **Renzo Franceschini**, a software engineer from Argentina, based in **Italy**, with 10 years of backend experience. I've led backend teams and projects at **EssilorLuxottica**, **PwC** and **Forian / Helix Technologies**, usually as Tech Lead or Main Backend Engineer.
 
-Currently I'm a **Senior Software Engineer - AI Evaluation** at **BespokeLabs**, engineering AI agent evaluation benchmarks and designing multi-layered debugging scenarios that test whether LLM agents can reason through real-world software architecture.
+### Building Guard Core
 
-My signature open-source work is the **Guard-Core** ecosystem: a framework-agnostic API security platform with a core engine and thin framework adapters per language. Shipped today: Python (FastAPI, Flask, Django, Tornado), TypeScript (Express, Fastify, Hono, NestJS), Go (net/http, Gin, Echo, Fiber) and PHP (PSR-15, Laravel, Symfony, Slim), with the Rust engine at full detection conformance and adapters for Tower, Axum, Actix and Rocket. Companion telemetry agents report from every core to one centralized SaaS (marketing site, dashboard, interactive playground, public API), and an MCP server lets your LLM work with the whole ecosystem. Sole maintainer across the stack, with 100% test coverage as a floor, not a stretch goal.
+My main focus is **[Guard Core](https://github.com/Guard-Core)**: open-source API security that runs **inside** your app instead of in front of it, so it sees what the edge can't. One detection engine, thin adapters for the framework you already run, in **Python, TypeScript, Go, Rust, PHP and the JVM**, plus a SaaS for monitoring and response at [guard-core.com](https://guard-core.com).
 
-Right now my main focus is **[RoboCo](https://github.com/rennf93/roboco)** - an *AI Agents Company*: a virtual organization of 25 AI agents and one human CEO (me), wired to run as a complete software-development workforce. A Board, a Main PM, and Backend / Frontend / UX-UI cells push every task through a real *build → review → document → merge* pipeline - where only the human ever merges to `master`. It's built on FastAPI, Postgres, Redis and MCP, with a RAG knowledge base feeding the agents and a live control panel over the whole org.
+- [fastapi-guard](https://github.com/Guard-Core/fastapi-guard) alone gets about 62k downloads a month.
+- Merged upstream in [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/1980), [Xinference](https://github.com/xorbitsai/inference/pull/5664) and [Vexa](https://github.com/Vexa-ai/vexa/pull/465), and listed on [Fastify's ecosystem page](https://github.com/fastify/fastify/pull/7128).
+- 6 engines, 6 telemetry agents and 23 framework adapters, one maintainer, 100% test coverage as a floor.
 
-When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering with AI agent infrastructure, and contributing to whatever open source I happen to be using at the time.
-
-<p align="center">
-  <img width="1000" src="assets/snake.svg" alt="snake"/>
-</p>
-
----
-
-## The Guard-Core Platform
+The full list of engines, adapters and agents lives on the [Guard-Core org](https://github.com/Guard-Core).
 
 <p align="center">
   <a href="https://guard-core.com"><img src="https://img.shields.io/badge/guard--core.com-Marketing-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="guard-core.com"/></a>
@@ -35,66 +29,18 @@ When I'm not on any of those, you'll catch me writing GitHub Actions, tinkering 
   <a href="https://api.guard-core.com"><img src="https://img.shields.io/badge/api.guard--core.com-API-2DD4BF?style=for-the-badge&logo=fastapi&logoColor=white" alt="api.guard-core.com"/></a>
 </p>
 
----
+### The tooling behind it
 
-## Projects
+Maintaining that many repos alone takes infrastructure, so I build it:
 
-### RoboCo - AI Agents Company
-- [RoboCo](https://github.com/rennf93/roboco) - An AI Agents Organization of 25 AI agents + 1 human CEO, running a full build → review → document → merge pipeline. Role-gated, open source, self hosted company that aims to help solo-founders (like me) have the team they can't yet quite afford to have. You can focus on reaching out to new customers while they keep building for you.
+- [RoboCo](https://github.com/rennf93/roboco) - an AI agent organization: 25 agents and one human CEO running a build, review, document, merge pipeline where only the human merges to `master`.
+- [Hummin](https://github.com/rennf93/hummin) - AI agent toolkit: unified LLM API, agent loop, TUI and a coding agent CLI.
+- [Murmur](https://github.com/rennf93/murmur) - a local message bus for AI CLI sessions, so parallel agents can review and challenge each other's work.
+- [fable-mode](https://github.com/rennf93/opus-fable-playbook) and [Agent Runway](https://github.com/rennf93/agent-runway) - Claude Code plugins for agent discipline and project-aware subagents.
 
-### Guard Ecosystem: API Security
-
-### Python
-- [Guard-Core](https://github.com/rennf93/guard-core) - API Security Core Engine for Python frameworks.
-- [Guard-Core-MCP](https://github.com/rennf93/guard-core-mcp) - MCP server for the Guard ecosystem: config validation, docs search and live threat detection, answered from the versions installed in your project.
-- [Guard-Agent](https://github.com/rennf93/guard-agent) - Framework-agnostic Telemetry & Monitoring Agent for the Python Guard adapters (FastAPI, Flask, Django, Tornado).
-- [FastAPI-Guard](https://github.com/rennf93/fastapi-guard) - Adapter to Guard Core that fully protects a FastAPI app.
-- [Flask-API-Guard](https://github.com/rennf93/flaskapi-guard) - Adapter to Guard Core that fully protects a Flask API app.
-- [Django-API-Guard](https://github.com/rennf93/djapi-guard) - Adapter to Guard Core that fully protects a Django app.
-- [Tornado-API-Guard](https://github.com/rennf93/tornadoapi-guard) - Adapter to Guard Core that fully protects a Tornado app.
-
-### TypeScript
-- [Guard-Core-TS](https://github.com/rennf93/guard-core-ts) - TypeScript equivalent of Guard Core and its thin adapters.
-- [Guard-Agent-TS](https://github.com/rennf93/guard-agent-ts) - Telemetry & Monitoring Agent for Guard Core TS: at-least-once delivery, 413 split-or-drop, Redis crash recovery.
-- [Guard-Core-Express](https://github.com/rennf93/guard-core-ts/tree/master/packages/express) - Adapter to Guard Core Ts that fully protects a Express app.
-- [Guard-Core-Fastify](https://github.com/rennf93/guard-core-ts/tree/master/packages/fastify) - Adapter to Guard Core Ts that fully protects a Fastify app.
-- [Guard-Core-Hono](https://github.com/rennf93/guard-core-ts/tree/master/packages/hono) - Adapter to Guard Core Ts that fully protects a Hono app.
-- [Guard-Core-NestJS](https://github.com/rennf93/guard-core-ts/tree/master/packages/nestjs) - Adapter to Guard Core Ts that fully protects a NestJS app.
-
-### Go
-- [Guard-Core-Go](https://github.com/rennf93/guard-core-go) - API Security Core Engine for Go.
-- [Guard-Agent-Go](https://github.com/rennf93/guard-agent-go) - Telemetry & Monitoring Agent for Guard Core Go.
-- [nethttp-guard](https://github.com/rennf93/nethttp-guard) - net/http middleware adapter for Guard Core Go: the universal `func(http.Handler) http.Handler` security middleware.
-- [Gin-Guard](https://github.com/rennf93/gin-guard) - Gin middleware adapter for Guard Core Go.
-- [Echo-Guard](https://github.com/rennf93/echo-guard) - Echo middleware adapter for Guard Core Go.
-- [Fiber-Guard](https://github.com/rennf93/fiber-guard) - Fiber (fasthttp) middleware adapter for Guard Core Go.
-
-### PHP
-- [Guard-Core-PHP](https://github.com/rennf93/guard-core-php) - API Security Core Engine for PHP.
-- [Guard-Agent-PHP](https://github.com/rennf93/guard-agent-php) - Telemetry & Monitoring Agent for the Guard PHP adapters.
-- [PSR-15-Guard](https://github.com/rennf93/psr15-guard) - PSR-15 middleware adapter for Guard Core PHP: universal PSR-7/PSR-15 security middleware.
-- [Laravel-Guard](https://github.com/rennf93/laravel-guard) - Laravel middleware adapter for Guard Core PHP.
-- [Symfony-Guard](https://github.com/rennf93/symfony-guard) - Symfony kernel middleware adapter for Guard Core PHP.
-- [Slim-Guard](https://github.com/rennf93/slim-guard) - Slim 4 adapter composing PSR-15-Guard for Guard Core PHP.
-
-### Rust
-- [Guard-Core-RS](https://github.com/rennf93/guard-core-rs) - Rust equivalent of Guard Core: full 4.0.2 detection conformance, pattern translation ledger, PyO3 bindings.
-- [Guard-Agent-RS](https://github.com/rennf93/guard-agent-rs) - Telemetry & Monitoring Agent for Guard Core RS: tokio async transport, circuit breaker, Redis persistence.
-- [Actix-Guard-RS](https://github.com/rennf93/actix-guard-rs) - Adapter to Guard Core RS that fully protects a Actix app.
-- [Axum-Guard-RS](https://github.com/rennf93/axum-guard-rs) - Adapter to Guard Core RS that fully protects a Axum app.
-- [Rocket-Guard-RS](https://github.com/rennf93/rocket-guard-rs) - Adapter to Guard Core RS that fully protects a Rocket app.
-- [Tower-Guard-RS](https://github.com/rennf93/tower-guard-rs) - Adapter to Guard Core RS that fully protects a Tower app.
-
-**Developer Tools & Plugins**
-- [fable-mode](https://github.com/rennf93/opus-fable-playbook) - Claude Code plugin that makes Opus 4.8 behave like Claude Fable 5: doctrine output style, drift-catching hooks, and an eval loop measured against golden Fable transcripts.
-- [Agent Runway](https://github.com/rennf93/agent-runway) - Claude Code plugin that briefs subagents on project architecture and conventions before they write code, then validates placement after.
-- [2FastAuth](https://github.com/rennf93/two-fast-auth) - 2FA Middleware to handle two factor authentication for FastAPI apps.
-- [Cutie-Pi](https://github.com/rennf93/cutie-pi) - Pixel-art dashboard for Pi-hole on small LCD screens.
-
-**GitHub Actions & Automation**
-- [Good Comms](https://github.com/rennf93/good-comms) - Sends notifications to a Slack channel.
-- [Generate API Key](https://github.com/rennf93/generate-api-key) - Generates a secure API key.
-- [GitHub Actions Secrets Management](https://github.com/rennf93/github-actions-secrets-mgmt) - Tool to manage and automate GitHub Actions Secrets modifications.
+<p align="center">
+  <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 
 ---
 
