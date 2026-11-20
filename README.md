@@ -17,7 +17,7 @@ I'm **Renzo Franceschini**, a software engineer from Argentina, based in **Italy
 My main focus is **[Guard Core](https://github.com/Guard-Core)**: open-source API security that runs **inside** your app instead of in front of it, so it sees what the edge can't. One detection engine, thin adapters for the framework you already run, in **Python, TypeScript, Go, Rust, PHP and the JVM**, plus a SaaS for monitoring and response at [guard-core.com](https://guard-core.com).
 
 - [fastapi-guard](https://github.com/Guard-Core/fastapi-guard) alone gets about 62k downloads a month.
-- Merged upstream in [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/1980), [Xinference](https://github.com/xorbitsai/inference/pull/5664) and [Vexa](https://github.com/Vexa-ai/vexa/pull/465), and listed on [Fastify's ecosystem page](https://github.com/fastify/fastify/pull/7128).
+- Merged upstream in [OpenENV](https://github.com/openenv/OpenEnv/pull/1506), [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/1980), [Xinference](https://github.com/xorbitsai/inference/pull/5664) and [Vexa](https://github.com/Vexa-ai/vexa/pull/465), and listed on [Fastify's ecosystem page](https://github.com/fastify/fastify/pull/7128).
 - 6 engines, 6 telemetry agents and 23 framework adapters, one maintainer, 100% test coverage as a floor.
 
 The full list of engines, adapters and agents lives on the [Guard-Core org](https://github.com/Guard-Core).
